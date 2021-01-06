@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://www.github.com/mdn/mdn-minimalist/compare/v0.5.7...v0.6.0) (2021-01-06)
+
+
+### Features
+
+* add css distribution ([e41765f](https://www.github.com/mdn/mdn-minimalist/commit/e41765f381e09ed5316bcd18e9ed480d5581d4e6)), closes [#384](https://www.github.com/mdn/mdn-minimalist/issues/384)
+
 ### [0.5.7](https://www.github.com/mdn/mdn-minimalist/compare/v0.5.6...v0.5.7) (2020-12-14)
 
 
